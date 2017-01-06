@@ -9,7 +9,7 @@ I had to test image Upload on a web application.
 Rather that using random image files from the internet. I decided to, create placeholder image files (JPG, GIF, PNG).
 
 ## Secondary motivation
-To save your and me 5 minutes, next time you need images for testing upload in web applications.
+To save You and Me 5 minutes, next time you need images for testing upload in web applications.
 
 # Images sizes (in pixels):
 - 80x80
